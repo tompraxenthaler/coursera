@@ -1,3 +1,3 @@
-﻿ID;indikation;name;alter;schwangerschaft;stillzeit;erkrankungen;image
-1111;Husten;Prospan;Saeuglinge, Kleinkinder, Kinder, Teenager, Erwachsene, Geriatrie;gruen;gruen;Asthma, COPD, TBC;https://m.media-amazon.com/images/I/6115EzUcQEL._AC_SL1500_.jpg
-1112;Husten;Mukosolvan;Erwachsene;rot;rot;TBC;https://www.mucosolvan.de/themes/mucosolvan/dist/assets/img/packshots/lutschpastillen-8711b4009e2eb1b64925a3cfbbb09eca.png
+ID	indikation	name	alter	schwangerschaft	stillzeit	erkrankungen	evidenz	image
+1111	Husten	Prospan	Saeuglinge, Kleinkinder, Kinder, Teenager, Erwachsene, Geriatrie	gruen	gruen	Asthma, COPD, TBC	5	https://m.media-amazon.com/images/I/6115EzUcQEL._AC_SL1500_.jpg
+1112	Schnupfen	Mukosolvan	Erwachsene	rot	rot	TBC	3	https://www.mucosolvan.de/themes/mucosolvan/dist/assets/img/packshots/lutschpastillen-8711b4009e2eb1b64925a3cfbbb09eca.png
